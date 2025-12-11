@@ -1,0 +1,5 @@
+{
+  "name": "MercadoPrice Scheduler",
+  "description": "Una aplicación avanzada para programar cambios de precios automáticos en productos (simulado para Mercado Libre), con asistencia de IA para estrategias de venta.",
+  "requestFramePermissions": []
+}
